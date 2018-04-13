@@ -1,0 +1,7 @@
+*~
+*.bak
+*.tmp
+*.csv
+*.swp
+chk-ratings.sh
+
