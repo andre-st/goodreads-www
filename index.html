@@ -214,9 +214,9 @@
 						
 						<input type="url" id="my-shelfurl" name="shelfurl" required 
 									aria-required="true"
-									pattern="^[hH][tT][tT][pP][sS]:\/\/[wW][wW][wW]\.[gG][oO][oO][dD][rR][eE][aA][dD][sS]\.[cC][oO][mM]/review/list/[0-9]+(?!.*shelf=[rR][eE][aA][dD](&|$)).*"
+									pattern="^[hH][tT][tT][pP][sS]:\/\/[wW][wW][wW]\.[gG][oO][oO][dD][rR][eE][aA][dD][sS]\.[cC][oO][mM]/review/list/[0-9]+.*"
 									placeholder="Paste a Goodreads Shelf Web-Address (URL)"
-									oninvalid="setCustomValidity('Valid shelf URL expected.\n\x22Read\x22 shelf is not allowed.')"
+									oninvalid="setCustomValidity('Valid shelf URL expected.')"
 									oninput="setCustomValidity('')"
 									><!-- Ugly pattern bc no native way to ignore case (who specified this?) -->
 									
