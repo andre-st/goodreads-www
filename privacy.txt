@@ -2,6 +2,9 @@ SERVICE PRIVACY NOTICE
 
 Last Updated: May 2018
 
+This text uses the words 'You' and 'Your' synonymously with 'data owner'.
+
+
 	
 Data collected on my behalf in order to perform the service:
 
@@ -15,7 +18,7 @@ Data collected on my behalf in order to perform the service:
 	Data is not sold to any other party without consent.
 	
 	This tuple is stored in Germany.
-	Legal ground is user consent.
+	Legal ground is your consent.
 	
 	
 	
@@ -31,7 +34,7 @@ Formspree.io is used for mail transfer:
 	end their privacy policies apply."
 	
 	This data is stored in the USA.
-	Legal ground is user consent.
+	Legal ground is your consent.
 
 	More    : https://formspree.io/static/PrivacyPolicy.pdf
 	SendGrid: https://sendgrid.com/policies/privacy/
@@ -51,7 +54,7 @@ GMail.com is used for mail transfer:
 	communications are confidential." (theguardian.com)
 	
 	This data is stored in the USA.
-	Legal ground is user consent.
+	Legal ground is your consent.
 
 	More: https://www.google.com/intl/en/policies/privacy/
 	
