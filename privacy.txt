@@ -10,50 +10,55 @@ Data collected on my behalf in order to perform the service:
 	- your book shelf name 
 	- your date of subscription
 	
-	Storage is based on user consent.
-	Deletion happens after unsubscription or dysfunctional mailbox.
+	Deleted after unsubscription, dysfunct mailbox or ongoing dysfunct shelf.
+	Unsubscribe via e-mail to datakadabra@gmail.com
 	Data is not sold to any other party without consent.
-	Unsubscribe via mail to datakadabra@gmail.com
 	
+	This tuple is stored in Germany.
+	Legal ground is user consent.
 	
-	
-Right to object, to erasure, to information etc:
-
-	Send claims to datakadabra@gmail.com
-
-	More: https://gdpr-info.eu/chapter-3/
-
 	
 	
 Formspree.io is used for mail transfer:
 	
-	Forwards form data from static websites to a mailbox.
-
+	Forwards subscription-form data from the static website 
+	to the GMail.com mailbox. 
+	
+	Form transmission is SSL-encrypted.
+	
 	Formspree.io stores "contents of the last 100 form submissions and 
 	delete[s] the rest. Emails are sent using SendGrid's API, so on that
 	end their privacy policies apply."
-
-	Form transmission is SSL-encrypted.
-
-	More: https://formspree.io/static/PrivacyPolicy.pdf
 	
-	
+	This data is stored in the USA.
+	Legal ground is user consent.
+
+	More    : https://formspree.io/static/PrivacyPolicy.pdf
+	SendGrid: https://sendgrid.com/policies/privacy/
+
+
 	
 GMail.com is used for mail transfer:
-
+	
+	Subscription requests are stored in a GMail.com mailbox.
+	
 	Notification emails are sent using Google Mail SMTP servers.
+	
 	This is how they learn about your e-mail address in context
 	with datakadabra@gmail.com and book rating notifications.
-
+	
 	"Gmail users have no reasonable expectation that their 
 	communications are confidential." (theguardian.com)
+	
+	This data is stored in the USA.
+	Legal ground is user consent.
 
 	More: https://www.google.com/intl/en/policies/privacy/
 	
 	
-
+	
 Google Analytics is analyzing how people use and discover this website:
-
+	
 	IP address anonymization is enabled for all events.
 	
 	Google Analytics gathers certain simple info over time, 
@@ -69,11 +74,13 @@ GitHub.com is hosting this website:
 	More: https://help.github.com/articles/github-privacy-statement/
 	
 	
-
-
 	
+Right to object, to erasure, to information etc:
 
+	For inquiries or concerns regarding privacy practices,
+	please contact datakadabra@gmail.com
 
-
+	Rights: https://gdpr-info.eu/chapter-3/
+	
 
 
