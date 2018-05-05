@@ -18,7 +18,7 @@ Data collected on my behalf in order to perform the service:
 	Data is not sold to any other party without consent.
 	
 	This tuple is stored in Germany.
-	Legal ground is your consent.
+	Legal ground is your consent and significance for service fulfillment.
 	
 	
 	
