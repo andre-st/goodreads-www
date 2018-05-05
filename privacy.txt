@@ -2,7 +2,9 @@ SERVICE PRIVACY NOTICE
 
 Last Updated: May 2018
 
-This text uses the words 'You' and 'Your' synonymously with 'data owner'.
+This text uses the words `you` and `your` synonymously with `data owner`,
+and `me` and `my` synonymously with the `data controller` who is responsible
+for https://andre-st.github.io/goodreads.
 
 
 
