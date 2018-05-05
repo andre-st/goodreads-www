@@ -212,7 +212,8 @@
 						
 						<br><br>
 						
-						<input type="url" id="my-shelfurl" name="shelfurl" required 
+						<input type="url" id="my-shelfurl" name="shelfurl" 
+									required 
 									aria-required="true"
 									pattern="^[hH][tT][tT][pP][sS]:\/\/[wW][wW][wW]\.[gG][oO][oO][dD][rR][eE][aA][dD][sS]\.[cC][oO][mM]/review/list/[0-9]+.*"
 									placeholder="Paste a Goodreads Shelf Web-Address (URL)"
@@ -222,12 +223,24 @@
 									
 						<br><br>
 						
-						<input type="email" id="my-replyto" name="_replyto" required 
+						<input type="email" id="my-replyto" name="_replyto" 
+									required 
 									aria-required="true"
 									placeholder="Enter an E-Mail Address To Receive Notices">
 									
 						<br><br>
 						<br><br>
+						
+						<input type="checkbox" id="my-privacyok" name="privacyok" 
+									required 
+									aria-required="true">
+						<label for="my-privacyok">
+							I have read the <a target="_blank" href="privacy.txt">privacy notice</a> 
+							and confirm my agreement
+						</label>
+						
+						<br><br>
+						
 						
 						<button id="my-submit" type="submit">
 							<i class="fas fa-check"></i>
@@ -327,21 +340,7 @@
 					-->
 				
 				</div> <!-- /my-social-icons -->
-				
-				
-				<!-- ........................... Privacy Notice ......................... -->
-				
-				<div id="my-privacy-notice">
-					<p>
-						Privacy notice:
-						Formspree.io and GMail.com are used for mail transfer.
-						Google&nbsp;Analytics is analyzing how people use and discover this website.
-						GitHub is hosting this site.
-						<a href="mailto:datakadabra@gmail.com?subject=Unsubscribe">Unsubscribe</a>
-					</p>
-				</div> <!-- /my-privacy-notice -->
-				
-				
+					
 			</div> <!-- /my-2 -->
 		</article> <!-- /col -->
 		
@@ -360,7 +359,7 @@
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
-		  gtag('config', 'UA-113056387-1');
+			gtag('config', 'UA-113056387-1', { 'anonymize_ip': true });
 		</script>
 		<script src="index.js?v=1.0"></script>  <!-- always load last -->
 	</body>

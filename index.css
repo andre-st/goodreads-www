@@ -55,7 +55,7 @@ a:hover
 
 
 
-/* ------------------------------ All Slides -------------------------------- */
+/* -------------------------------- All Slides ------------------------------ */
 
 .my-slide
 {
@@ -111,7 +111,7 @@ a:hover
 
 
 
-/* -------------------------------- Slide 1 --------------------------------- */
+/* --------------------------------- Slide 1 -------------------------------- */
 
 .my-shelves
 {
@@ -200,7 +200,7 @@ a:hover
 
 
 
-/* -------------------------------- Slide 2 --------------------------------- */
+/* --------------------------------- Slide 2 -------------------------------- */
 
 #my-slide-email .my-picture
 {
@@ -223,7 +223,7 @@ a:hover
 
 
 
-/* --------------------------- Registration Form ---------------------------- */
+/* ---------------------------- Registration Form --------------------------- */
 
 #my-right-side
 {
@@ -301,7 +301,6 @@ label
 
 label
 {
-	display: block;
 	color: #888;
 	font-style: italic;
 	font-size: 1em;
@@ -361,6 +360,14 @@ input[type=url]
 
 }
 
+input[type=checkbox]
+{
+	transform: scale( 1.5 );
+	margin: 0 0.25em 0 0.4em;
+	line-height: 1.6em;
+}
+
+
 /* Don't group: one invalid selector invalidates whole group */
 ::-webkit-input-placeholder { color: #888; font-size: 1.1em; }
 ::-moz-placeholder          { color: #888; font-size: 1.1em; }
@@ -405,22 +412,6 @@ form.my-sending-state .fa-check       { display: none;   }
 form.my-sending-state .fa-spinner     { display: inline; }
 form.my-success-state #my-success-txt { display: block;  }
 form.my-failure-state #my-failure-txt { display: block;  }
-
-
-
-#my-privacy-notice
-{
-	margin-top: 1.5em;
-	color: #5f5f5f;
-	font-size: 0.8em;
-}
-
-#my-privacy-notice a:link,
-#my-privacy-notice a:visited
-{
-	color: #5f5f5f;
-	text-decoration: underline;
-}
 
 
 
@@ -535,17 +526,10 @@ form.my-failure-state #my-failure-txt { display: block;  }
 	.my-social-icons
 	{
 		position: absolute;
-		bottom: 6em;
+		bottom: 1em;
 		z-index: 100;
 		width: 100%;
 		left: 0;
-	}
-	
-	#my-privacy-notice
-	{
-		position: absolute;
-		bottom: 1.5em;
-		margin-right: 4em;
 	}
 }
 
