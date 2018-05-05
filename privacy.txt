@@ -5,9 +5,9 @@ Last Updated: May 2018
 This text uses the words 'You' and 'Your' synonymously with 'data owner'.
 
 
-	
-Data collected on my behalf in order to perform the service:
 
+Data collected on my behalf in order to perform the service:
+	
 	- your e-mail addresss
 	- your Goodreads.com user identification number
 	- your book shelf name 
@@ -21,25 +21,6 @@ Data collected on my behalf in order to perform the service:
 	Legal ground is your consent and significance for service fulfillment.
 	
 	
-	
-Formspree.io is used for mail transfer:
-	
-	Forwards subscription-form data from the static website 
-	to the GMail.com mailbox. 
-	
-	Form transmission is SSL-encrypted.
-	
-	Formspree.io stores "contents of the last 100 form submissions and 
-	delete[s] the rest. Emails are sent using SendGrid's API, so on that
-	end their privacy policies apply."
-	
-	This data is stored in the USA.
-	Legal ground is your consent.
-
-	More    : https://formspree.io/static/PrivacyPolicy.pdf
-	SendGrid: https://sendgrid.com/policies/privacy/
-
-
 	
 GMail.com is used for mail transfer:
 	
@@ -55,12 +36,31 @@ GMail.com is used for mail transfer:
 	
 	This data is stored in the USA.
 	Legal ground is your consent.
-
+	
 	More: https://www.google.com/intl/en/policies/privacy/
 	
 	
 	
-Google Analytics is analyzing how people use and discover this website:
+Formspree.io is used for mail transfer:
+	
+	Forwards your subscription-form data from the static website 
+	to the GMail.com mailbox. 
+	
+	Form transmission is SSL-encrypted.
+	
+	Formspree.io stores "contents of the last 100 form submissions and 
+	delete[s] the rest. Emails are sent using SendGrid's API, so on that
+	end their privacy policies apply."
+	
+	This data is stored in the USA.
+	Legal ground is your consent.
+	
+	More    : https://formspree.io/static/PrivacyPolicy.pdf
+	SendGrid: https://sendgrid.com/policies/privacy/
+	
+	
+	
+Google Analytics is analyzing how people use and discover the website:
 	
 	IP address anonymization is enabled for all events.
 	
@@ -72,17 +72,17 @@ Google Analytics is analyzing how people use and discover this website:
 	
 	
 	
-GitHub.com is hosting this website:
+GitHub.com is hosting the website:
 	
 	More: https://help.github.com/articles/github-privacy-statement/
 	
 	
 	
 Right to object, to erasure, to information etc:
-
+	
 	For inquiries or concerns regarding privacy practices,
 	please contact datakadabra@gmail.com
-
+	
 	Rights: https://gdpr-info.eu/chapter-3/
 	
 
