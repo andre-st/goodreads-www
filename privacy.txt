@@ -3,8 +3,8 @@ SERVICE PRIVACY NOTICE
 Last Updated: May 2018
 
 This text uses the words `you` and `your` synonymously with `data owner`,
-and `me` and `my` synonymously with the `data controller` who is responsible
-for https://andre-st.github.io/goodreads/
+and `I`, `me` and `my` synonymously with the `data controller` who is 
+responsible for https://andre-st.github.io/goodreads/
 
 
 
@@ -24,11 +24,11 @@ Data collected on my behalf in order to perform the service:
 	
 	
 	
-GMail.com is used for mail transfer:
+GMail.com is used for e-mail transfer:
 	
-	Subscription requests are stored in a GMail.com mailbox.
-	
-	Notification emails are sent using Google Mail SMTP servers.
+	Your subscription requests and all the e-mails you receive
+	are stored in a GMail.com mailbox.
+	I use Google Mail SMTP servers for e-mail transfer.
 	
 	This is how they learn about your e-mail address in context
 	with datakadabra@gmail.com and book rating notifications.
@@ -43,7 +43,7 @@ GMail.com is used for mail transfer:
 	
 	
 	
-Formspree.io is used for mail transfer:
+Formspree.io is used for e-mail transfer:
 	
 	Forwards your subscription-form data from the static website 
 	to the GMail.com mailbox. 
@@ -80,7 +80,7 @@ GitHub.com is hosting the website:
 	
 	
 	
-Right to object, to erasure, to information etc:
+Your right to object, to erasure, to information etc:
 	
 	For inquiries or concerns regarding privacy practices,
 	please contact datakadabra@gmail.com
@@ -89,3 +89,16 @@ Right to object, to erasure, to information etc:
 	
 
 
+Links to other sites:
+	
+	When you follow a link to an external site, you are subject to the
+	external site's privacy and security policies.
+	
+	I'm not responsible for the contents of external webpages,
+	because it's not me who
+	initiates the transmission of information,
+	selects the addressee of the submitted information,
+	selects or changes the submitted information.
+
+	A link to a page does not constitute an endorsement.
+	
