@@ -1,14 +1,18 @@
-SERVICE PRIVACY NOTICE
+PRIVACY NOTICE
 
 Last Updated: May 2018
 
-
 This text uses the words:
 	"the website"           for https://andre-st.github.io/goodreads/
+	"the service"           for the service described on the website,
 	"you" and "your"        synonymously with "data owner",
 	"they", "their", "them" synonymously with "data processor", and
 	"I", "me" and "my"      synonymously with "data controller" who
-	                        is responsible for the website
+	                        is responsible for the website and service
+	
+	
+	
+I don't earn money with the service and used free resources to realize it.
 
 
 
@@ -26,7 +30,7 @@ Data collected on my behalf in order to perform the service:
 	This tuple is stored in Germany.
 	Legal ground is your consent and significance for service fulfillment.
 	
-	
+     
 	
 GMail.com is used for e-mail transfer:
 	
