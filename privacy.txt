@@ -2,7 +2,8 @@ PRIVACY NOTICE
 
 Last Updated: May 2018
 
-This text uses the words:
+For ease of comprehension, this text uses the words:
+
 	"the website"           for https://andre-st.github.io/goodreads/
 	"the service"           for the service described on the website,
 	"you" and "your"        synonymously with "data owner",
