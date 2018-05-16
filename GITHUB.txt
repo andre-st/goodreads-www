@@ -1,0 +1,28 @@
+Repository Name:
+
+goodreads-www
+
+
+Description:
+
+Static website to offer my "Goodreads.com-Toolbox" software as-a-service
+
+
+Website:
+
+https://andre-st.github.io/goodreads/
+
+
+Topics:
+
+website
+webpage
+onepage
+onepager
+goodreads
+registration
+subscription
+landing-page
+landingpage
+
+
