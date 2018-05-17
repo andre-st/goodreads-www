@@ -3,13 +3,15 @@
 You need to change email addresses and the Google Analytics code.
 
 
-## Current:
+## Current
+
+The color scheme is now more like the Goodreads.com website I refer to with the service.
 
 ![Screenshot](screenshot-20180402.jpg "Screenshot")
 
 
 
-## Older:
+## Older
 
 ![Screenshot](screenshot-20180131.png "Screenshot")
 
