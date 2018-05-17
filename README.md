@@ -5,7 +5,7 @@ You need to change email addresses and the Google Analytics code.
 
 ## Current:
 
-![Screenshot](screenshot-20180402.png "Screenshot")
+![Screenshot](screenshot-20180402.jpg "Screenshot")
 
 
 
