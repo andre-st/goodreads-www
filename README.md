@@ -5,7 +5,7 @@ You need to change email addresses and the Google Analytics code.
 
 ## Current
 
-The color scheme is now more like the Goodreads.com website I refer to with the service.
+The color scheme and typography is now more like the Goodreads.com website I refer to with the service.
 
 ![Screenshot](screenshot-20180402.jpg "Screenshot")
 
