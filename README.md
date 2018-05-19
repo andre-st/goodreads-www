@@ -14,6 +14,7 @@ You need to search-replace my email address datakadabra@gmail.com in _all_ files
   - slightly animated slides help users understand the form
   - where do they find the info they have to input and how does the service or notifications mail look like 
   - slides change when the user changes between the input controls
+  - slides are actually HTML and not real screenshots or images (CSS rotation etc only gives the impression); I found this easier to update
 
 
 ## Current
