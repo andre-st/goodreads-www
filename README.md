@@ -11,7 +11,7 @@ You need to search-replace my email address datakadabra@gmail.com in _all_ files
   - minimal design form 
   - problem and solution statement 
 - left side of the page: 
-  - slightly animated slides help users understanding the form
+  - slightly animated slides help users understand the form
   - where do they find the info they have to input and how does the service or notifications mail look like 
   - slides change when the user changes between the input controls
 
