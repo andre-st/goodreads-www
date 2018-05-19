@@ -7,9 +7,9 @@
 - form submission is supported by external free services
 
 Right half of the page: _Interaction_
-- minimal design form, as less text as possible 
+- minimal design form: as less text and controls as possible 
 - problem and solution statement 
-- privacy notice and consent (GDPR)
+- [privacy notice](privacy.txt) and consent checkbox (GDPR)
   
 Left half of the page: _Information_
 - slightly animated slides help users understand the form on the right side
