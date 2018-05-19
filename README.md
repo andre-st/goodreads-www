@@ -5,7 +5,7 @@
 You need to search-replace my email address datakadabra@gmail.com in _all_ files, and my Google Analytics code in index.html
 
 
-## Basic ideas
+## Basic website design ideas
 
 Overall:
 - [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page)
