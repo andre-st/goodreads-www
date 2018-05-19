@@ -1,10 +1,5 @@
 # André's Goodreads Toolbox as a Service
 
-## Copiers
-
-You need to search-replace my email address datakadabra@gmail.com in _all_ files, and my Google Analytics code in index.html
-
-
 ## Basic website design ideas
 
 Overall:
@@ -40,3 +35,7 @@ The color scheme and typography is now more like the Goodreads.com website I ref
 ![Screenshot](screenshot-20180131.png "Screenshot")
 
 
+
+## Copiers
+
+You need to search-replace my email address datakadabra@gmail.com in _all_ files, and my Google Analytics code in index.html
