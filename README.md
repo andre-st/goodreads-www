@@ -15,7 +15,7 @@ Left half of the page: _Information_
 - slightly animated slides help users understand the form on the right side
 - where do they find the info they have to input and how does the service or notifications mail look like 
 - slides change when the user changes between the input controls
-- slides are actually HTML and not real screenshots or images (CSS rotation etc only gives the impression); I found this easier to update, fonts etc scale better and the page loads faster
+- slides are actually HTML and not real screenshots: I found this easier to update, fonts scale better and the page loads faster; screenshots need editing due to copyrighted book covers
 
 
 ### Current
