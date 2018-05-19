@@ -11,7 +11,7 @@
 
 Right half of the page: _Interaction_
 - minimal design form: as less text and controls as possible 
-- problem and solution statement 
+- problem statement -> solution -> call to action
 - [privacy notice](privacy.txt) and consent checkbox (GDPR)
   
 Left half of the page: _Information_
