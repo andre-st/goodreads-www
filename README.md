@@ -6,14 +6,18 @@ You need to search-replace my email address datakadabra@gmail.com in _all_ files
 
 
 ## Basic ideas
+
+### Overall:
 - [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page)
 - static website so I can easily host this on GitHub
   - form submission is supported by external free services
-- right side of the page:
+
+### Right side of the page:
   - minimal design form 
   - problem and solution statement 
   - privacy notice and consent (GDPR)
-- left side of the page: 
+  
+### Left side of the page: 
   - slightly animated slides help users understand the form
   - where do they find the info they have to input and how does the service or notifications mail look like 
   - slides change when the user changes between the input controls
