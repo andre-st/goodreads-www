@@ -7,10 +7,10 @@ You need to change email addresses (datakadabra@gmail.com) in _all_ files, and t
 
 ## About
 - [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page)
-- right side of the page: minimal design form
-- left side of the page: slightly animated slides helping the user to understand the form
-  - where do I find the needed input data and how does the service or notifications mails look like 
-  - slides change when users changes input controls
+- right side of the page: minimal design form + problem and solution statement 
+- left side of the page: slightly animated slides help users understanding the form
+  - where do they find the info they have to input and how does the service or notifications mail look like 
+  - slides change when the user changes between the input controls
 
 
 ## Current
