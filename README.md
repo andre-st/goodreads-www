@@ -18,7 +18,7 @@ Left half of the page: _Information_
 - slides are actually HTML and not real screenshots or images (CSS rotation etc only gives the impression); I found this easier to update, fonts etc scale better and the page loads faster
 
 
-## Current
+### Current
 
 The color scheme and typography is now more like the Goodreads.com website I refer to with the service.
 
@@ -26,7 +26,7 @@ The color scheme and typography is now more like the Goodreads.com website I ref
 
 
 
-## Older
+### Older
 
 ![Screenshot](screenshot-20180131.png "Screenshot")
 
