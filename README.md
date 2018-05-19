@@ -17,7 +17,11 @@ Left half of the page: _Information_
   - where do they find the info they have to enter 
   - how does the service or notifications mail look like 
 - slides change when the user changes between the input controls
-- slides are actually HTML and not real screenshots: I found this easier to update, fonts scale better and the page loads faster; screenshots need editing due to copyrighted book covers
+- slides are actually HTML and not real screenshots: 
+  - I found this easier to update
+  - fonts scale better
+  - page loads faster
+  - screenshots need editing due to copyrighted book covers
 
 
 ### Current
