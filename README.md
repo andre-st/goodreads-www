@@ -11,14 +11,17 @@ Overall:
 - [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page)
 - static website so I can easily host this on GitHub
 - form submission is supported by external free services
+- 50%:50% layout (on large screen) = possible relationship between two halves
 
 Right side of the page:
-- minimal design form 
+- interactive
+- minimal design form, as less text as possible 
 - problem and solution statement 
 - privacy notice and consent (GDPR)
   
-Left side of the page: 
-- slightly animated slides help users understand the form
+Left _non-interactive_ side of the page: 
+- non-interactive, just informational
+- slightly animated slides help users understand the form on the right side
 - where do they find the info they have to input and how does the service or notifications mail look like 
 - slides change when the user changes between the input controls
 - slides are actually HTML and not real screenshots or images (CSS rotation etc only gives the impression); I found this easier to update, fonts etc scale better and the page loads faster
