@@ -7,7 +7,7 @@
 - [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page)
 - [static](https://en.wikipedia.org/wiki/Static_web_page) website so I can easily host this on GitHub
 - form submission is supported by external free services
-- color scheme and typography is now more like the Goodreads.com website I refer to with the service
+- color scheme and typography refer to the Goodreads.com website
 
 Right half of the page: _Interaction_
 - minimal design form: as less text and controls as possible 
