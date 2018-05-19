@@ -3,7 +3,7 @@
 ## The landing page
 
 - [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page)
-- static website so I can easily host this on GitHub
+- [static](https://en.wikipedia.org/wiki/Static_web_page) website so I can easily host this on GitHub
 - form submission is supported by external free services
 
 Right half of the page: _Interaction_
