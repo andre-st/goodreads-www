@@ -16,7 +16,7 @@
 - left half of the page: slightly animated informative slides 
 - slides help users understand the form: where do they find the info they have to enter etc
 - slides change when the user changes between the input controls
-- slides aren't real screenshots: HTML easier to update, loads faster; screenshots need editing due to copyrighted book covers
+- slides aren't real screenshots: HTML easier to update, loads faster;<br>screenshots need editing due to copyrighted book covers
 
 
 ### Older
