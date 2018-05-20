@@ -1,5 +1,8 @@
 # André's Goodreads Toolbox as a Service
 
+![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)
+
+
 ## The landing page
 
 ![Screenshot](screenshot-20180402.jpg "Screenshot")
