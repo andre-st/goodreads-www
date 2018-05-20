@@ -10,19 +10,13 @@
 [Responsive](https://en.wikipedia.org/wiki/Responsive_web_design), [static](https://en.wikipedia.org/wiki/Static_web_page), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page) I can easily host on GitHub:
 - form submission is supported by external free services
 - color scheme and typography refer to the Goodreads.com website
-- minimal design form: as less text and controls as possible 
-- problem statement -> solution statement -> call to action
+- form with as less text and controls as possible 
+- problem statement (why) -> solution statement -> call to action
 - [privacy notice](privacy.txt) and consent checkbox (GDPR)
 - left half of the page: slightly animated informative slides 
-- slides help users understand the form on the right side:
-  - where do they find the info they have to enter 
-  - how does the service or notifications mail look like 
+- slides help users understand the form on the right side: where do they find the info they have to enter etc
 - slides change when the user changes between the input controls
-- slides are actually HTML and not real screenshots: 
-  - I found this easier to update
-  - fonts scale better
-  - page loads faster
-  - screenshots need editing due to copyrighted book covers
+- slides are HTML, not real screenshots: easier to update, loads faster; screenshots need editing due to copyrighted book covers
 
 
 ### Older
