@@ -8,7 +8,7 @@
 ![Screenshot](screenshot-20180402.jpg "Screenshot")
 
 [Responsive](https://en.wikipedia.org/wiki/Responsive_web_design), [static](https://en.wikipedia.org/wiki/Static_web_page), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page) I can easily host on _GitHub Pages_:
-- HTML5 validated form submission is supported by external free services
+- form submission is supported by external free services, plain HTML5 form validation
 - form contains as less elements as possible, so filling of this form seems like less work
 - color scheme and typography refer to the Goodreads.com website
 - problem statement (why) -> solution statement -> call to action
