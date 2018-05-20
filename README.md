@@ -7,15 +7,11 @@
 - [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), [static](https://en.wikipedia.org/wiki/Static_web_page), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page) I can easily host on GitHub
 - form submission is supported by external free services
 - color scheme and typography refer to the Goodreads.com website
-
-Right half of the page: _Interaction_
 - minimal design form: as less text and controls as possible 
 - problem statement -> solution statement -> call to action
 - [privacy notice](privacy.txt) and consent checkbox (GDPR)
-  
-Left half of the page: _Information_
-- slightly animated slides 
-- help users understand the form on the right side:
+- left half of the page: slightly animated informative slides 
+- slides help users understand the form on the right side:
   - where do they find the info they have to enter 
   - how does the service or notifications mail look like 
 - slides change when the user changes between the input controls
