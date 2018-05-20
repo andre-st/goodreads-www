@@ -4,7 +4,7 @@
 
 ![Screenshot](screenshot-20180402.jpg "Screenshot")
 
-- [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), [static](https://en.wikipedia.org/wiki/Static_web_page), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page) I can easily host on GitHub
+[Responsive](https://en.wikipedia.org/wiki/Responsive_web_design), [static](https://en.wikipedia.org/wiki/Static_web_page), transactional [landing page](https://en.wikipedia.org/wiki/Landing_page) I can easily host on GitHub:
 - form submission is supported by external free services
 - color scheme and typography refer to the Goodreads.com website
 - minimal design form: as less text and controls as possible 
