@@ -14,9 +14,9 @@
 - problem statement (why) -> solution statement -> call to action
 - [privacy notice](privacy.txt) and consent checkbox (GDPR)
 - left half of the page: slightly animated informative slides 
-- slides help users understand the form on the right side: where do they find the info they have to enter etc
+- slides help users understand the form: where do they find the info they have to enter etc
 - slides change when the user changes between the input controls
-- slides are HTML, not real screenshots: easier to update, loads faster; screenshots need editing due to copyrighted book covers
+- slides aren't real screenshots: HTML easier to update, loads faster; screenshots need editing due to copyrighted book covers
 
 
 ### Older
