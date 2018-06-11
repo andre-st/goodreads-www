@@ -5,7 +5,7 @@
 
 ## The landing page
 
-[![Screenshot](screenshot-20180402.jpg "Screenshot")](https://andre-st.github.io/goodreads/)
+[![Screenshot](screenshot-20180611.png "Screenshot")](https://andre-st.github.io/goodreads/)
 
 [Responsive](https://en.wikipedia.org/wiki/Responsive_web_design), [static](https://en.wikipedia.org/wiki/Static_web_page), [transactional landing page](https://en.wikipedia.org/wiki/Landing_page) I can easily host on [GitHub Pages](https://pages.github.com/) for free:
 - form submission is supported by external free services, plain HTML5 form validation
