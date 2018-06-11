@@ -22,7 +22,7 @@
 
 - most subscribers don't use a special-purpose shelf with selected books but paste their whole "read" or "wishlist" shelves
 - some users subscribe multiple time with different shelves so that each is checked (which could be achieved with a single special-purpose shelf too)
-- technical 'lessons learned' can be found in the head comments of the source files
+- technical 'lessons learned' can be found in the comments of the source files
 
 
 ### Older
