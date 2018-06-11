@@ -25,7 +25,7 @@
 - technical 'lessons learned' can be found in the comments of the source files
 
 
-### Older
+### Older:
 
 ![Screenshot](screenshot-20180131.png "Screenshot")
 
