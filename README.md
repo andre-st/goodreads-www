@@ -18,7 +18,7 @@
 - slides change when the user changes between the input controls
 - slides aren't real screenshots: HTML easier to update, loads faster;<br>screenshots need editing due to copyrighted book covers
 
-### Observations/Todo:
+### Observations:
 
 - most subscribers don't use a special-purpose shelf with selected books but paste their whole "read" or "wishlist" shelves
 - some users subscribe multiple time with different shelves so that each is checked (which could be achieved with a single special-purpose shelf too)
