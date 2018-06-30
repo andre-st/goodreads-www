@@ -339,6 +339,8 @@ button
 	font-size: 1.5em;
 	padding: 0.4em 0;
 	width: 100%;
+	position: relative;
+	z-index: 200;
 }
 
 input[type=text],
