@@ -37,6 +37,6 @@ You need to search-replace my email address datakadabra@gmail.com in _all_ files
 
 ## Modest remark:
 
-This repository also serves as a playground where I try different designs. But none of them:
+This repository also serves as a playground where I try different designs.
 
 ![Screenshot](screenshot-avoid.png "Tweet")
