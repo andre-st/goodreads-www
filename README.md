@@ -33,3 +33,10 @@
 ## Copiers
 
 You need to search-replace my email address datakadabra@gmail.com in _all_ files, and my Google Analytics code in index.html
+
+
+## Modest remark:
+
+This repository also serves as a playground where I try different designs. But none of them:
+
+![Screenshot](screenshot-avoid.png "Tweet")
