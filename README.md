@@ -16,7 +16,7 @@
 - left half of the page: slightly animated informative slides 
 - slides help users understand the form: where do they find the info they have to enter etc
 - slides change when the user changes between the input controls
-- slides add a second mouse pointer as users seek and follow mouse pointers (mistake this cursor with their own): we attract and lead their attention to specific areas
+- slides add a second mouse pointer as users seek and follow mouse pointers: we attract and lead their attention to specific areas as they mistake our cursor with their own cursor
 - slides aren't real screenshots: HTML easier to update, loads faster;<br>screenshots need editing due to copyrighted book covers
 
 ### Observations:
