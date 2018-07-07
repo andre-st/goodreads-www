@@ -15,8 +15,8 @@
 - [privacy notice](privacy.txt) and consent checkbox (GDPR)
 - left half of the page: slightly animated informative slides 
 - slides help users understand the form: where do they find the info they have to enter etc
+- slides add a second mouse pointer as users are used to seek and follow mouse pointers: we attract and lead their attention to specific areas; it clearly represents an user interaction, too: "sth. you have to do too"; it's the only significant animation on the page
 - slides change when the user changes between the input controls
-- slides add a second mouse pointer as users are used to seek and follow mouse pointers: we attract and lead their attention to specific areas; it clearly represents an user interaction, too; it's the only significant animation on the page
 - slides aren't real screenshots: HTML easier to update, loads faster;<br>screenshots need editing due to copyrighted book covers
 
 ### Observations:
