@@ -1,6 +1,6 @@
 # André's Goodreads [Toolbox](https://github.com/andre-st/goodreads/) as a Service
 
-![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)
 
 
 ## The landing page
@@ -24,7 +24,7 @@
 ### Observations:
 
 - most subscribers don't use a special-purpose shelf with selected books but paste their whole "read" or "wishlist" shelves
-- some users subscribe multiple times with different shelves so that each is checked (could be achieved with a single special-purpose shelf too)
+- some users subscribe multiple times with different shelves so that each is checked (could be achieved with a single special-purpose shelf too); one user replied 'unsubscribe' on a mail (1 mail per shelf) and only meant to unsubscribe this specific shelf, not the other ones
 - technical 'lessons learned' can be found in the comments of the source files
 
 
