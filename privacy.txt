@@ -1,6 +1,6 @@
 PRIVACY NOTICE
 
-Last Updated: May 2018
+Last Updated: Jan 2019
 
 For ease of comprehension, this text uses the words:
 
@@ -22,9 +22,10 @@ Data collected on my behalf in order to perform the service:
 	- your e-mail addresss
 	- your Goodreads.com user identification number
 	- your book shelf name 
+	- numerical IDs of all books in your book shelf
 	- your date of subscription
 	
-	Deleted after unsubscription, dysfunct mailbox or ongoing dysfunct shelf.
+	Deleted within 14 days after unsubscription, dysfunct mailbox or ongoing dysfunct shelf.
 	Unsubscribe via e-mail to datakadabra@gmail.com
 	Data is not sold to any other party without consent.
 	
@@ -94,7 +95,7 @@ Your right to object, to erasure, to information etc:
 	For inquiries or concerns regarding privacy practices,
 	please contact datakadabra@gmail.com
 	
-	Rights: https://gdpr-info.eu/chapter-3/
+	Your rights: https://gdpr-info.eu/chapter-3/
 	
 
 
