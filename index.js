@@ -14,20 +14,31 @@ while( maxBooks-- )  // Adds book-covers
 	$( '<img class="my-bookcov">' )
 		.attr( "src", "image/book" + Math.floor( maxBooks % numCovers ) + ".png" )
 		.appendTo( $( "#my-slide-good .my-picture" ) );
-
 		
 		
-$( "#my-mouse-ptr span" ).on( "animationstart", function()
+		
+$( "#my-slide-good .my-mouse-ptr span" ).on( "animationstart", function()
 {
 	$( "#my-fake-addrbar-url").removeClass( "my-active" );
 });
 		
-$( "#my-mouse-ptr span" ).on( "animationend", function()
+$( "#my-slide-good .my-mouse-ptr span" ).on( "animationend", function()
 {
 	$( "#my-fake-addrbar-url").addClass( "my-active" );
 });
+
+$( "#my-slide-email .my-mouse-ptr span" ).on( "animationstart", function()
+{
+	$( "#my-slide-email .my-mailto").removeClass( "my-active" );
+});
 		
-		
+$( "#my-slide-email .my-mouse-ptr span" ).on( "animationend", function()
+{
+	$( "#my-slide-email .my-mailto").addClass( "my-active" );
+});
+
+
+
 
 ////////////////////////////////////////////////////////////////////////////////
 // Changes slides when user changes UI controls:
@@ -153,6 +164,7 @@ $( document ).ready( function()
 	{
 		$( "[name=shelfurl]" ).focus();  // Indicate it's the user's turn
 	});
+	
 });
 
 
