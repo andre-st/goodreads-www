@@ -75,6 +75,16 @@ $( "input[name=shelfurl]" ).focus( function()
 	showSlide( "#my-slide-good" );
 });
 
+$( "input[name=shelfurl]" ).on( "input", function()
+{
+	const inp = this;
+	if( inp.value.match( /shelf=read/i    ) 
+	||  inp.value.match( /shelf=to-read/i )
+	||  inp.value.match( /shelf=#ALL#/i   ) )
+		showSlide( "#my-slide-tips" );
+});
+
+
 
 
 ////////////////////////////////////////////////////////////////////////////////

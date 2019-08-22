@@ -256,6 +256,30 @@ a:hover
 
 
 
+/* --------------------------------- Slide 3 -------------------------------- */
+
+#my-slide-tips .my-picture
+{
+
+	background-color: #fdff91;
+	background-color: #333;
+	color: #000;
+	color: #fff;
+
+
+
+	-webkit-filter: grayscale(0%);
+	   -moz-filter: grayscale(0%);
+	    -ms-filter: grayscale(0%);
+	     -o-filter: grayscale(0%);
+	        filter: grayscale(0%);
+}
+
+#my-slide-tips .my-overlay
+{
+	display: none;
+}
+
 
 /* ---------------------------- Registration Form --------------------------- */
 
