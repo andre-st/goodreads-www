@@ -37,5 +37,5 @@
 
 ## Copiers
 
-You need to search-replace my email address datakadabra@gmail.com in _all_ files, and my Google Analytics code in index.html.
+You need to search-replace my email address datakadabra@gmail.com in _all_ files.
 Maybe I will generalize this webpage to a template where form and slides are easer to customize.

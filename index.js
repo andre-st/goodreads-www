@@ -1,4 +1,3 @@
-// Requires Google Analytics Tag Manager: `gtag()`
 // Requires jQuery: `$()`   
 
 $( "body" ).removeClass( "my-nojs" ).addClass( "my-js" );
@@ -99,12 +98,6 @@ $( "#my-registration-form" ).submit( function( event )
 	{
 		if( this.checkValidity() )  // Fokin Safari needs extra-call
 		{
-			// Google Analytics:
-			//   - event names/opts: https://developers.google.com/gtagjs/reference/event
-			//   - requires active cookies
-			//   - requires absent ad-blocker
-			//   - event_action = event name
-			//
 			// Formspree.io:
 			//   - requires valid 'referrer' info.
 			// 
@@ -128,13 +121,11 @@ $( "#my-registration-form" ).submit( function( event )
 				success: function()
 				{
 					setRegistrationFormState( "my-success-state" );
-					gtag( "event", "sign_up", { event_category: "registration_form", method: "email" });
 				},
 				error: function( xhr, s, err )
 				{
 					const m = "Status: " + s + " (" + err + ")";
 					setRegistrationFormState( "my-failure-state", m );
-					gtag( "event", "exception", { event_category: "registration_form", description: m, fatal: true });
 				}
 			});
 		}

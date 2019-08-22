@@ -1,6 +1,6 @@
 PRIVACY NOTICE
 
-Last Updated: Jan 2019
+Last Updated: Aug 2019
 
 For ease of comprehension, this text uses the words:
 
@@ -72,18 +72,6 @@ Formspree.io is used for e-mail transfer:
 	
 	
 	
-Google Analytics is analyzing how people use and discover the website:
-	
-	IP address anonymization is enabled for all events.
-	
-	Google Analytics gathers certain simple info over time, 
-	such as browser type, internet service provider, referring and exit 
-	pages, time stamp, and similar data.
-	This information is not linked to any of your personal information 
-	such as your e-mail address.
-	
-	
-	
 GitHub.com is hosting the website:
 	
 	More: https://help.github.com/articles/github-privacy-statement/
@@ -97,8 +85,8 @@ Your right to object, to erasure, to information etc:
 	
 	Your rights: https://gdpr-info.eu/chapter-3/
 	
-
-
+	
+	
 Links to other sites:
 	
 	When you follow a link to an external site, you are subject to the
