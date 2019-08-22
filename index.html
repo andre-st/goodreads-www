@@ -82,7 +82,7 @@
 							</span>
 							<span style="background-color:#ffffff;border: 1px solid #aaa; padding: 0.25em">
 								<span id="my-fake-addrbar-url">
-									https://www.goodreads.com/review/list/18418712-andr?per_page=100&amp;sort=rating&amp;view=covers&amp;shelf=%E3%85%A1watch-ratings
+									https://www.goodreads.com/review/list/18418712-user?shelf=watch-shelf&amp;per_page=100&amp;sort=rating&amp;view=covers
 								</span>
 							</span>
 						</div>
@@ -90,7 +90,7 @@
 						<!-- Goodreads shelf view: -->
 						<div style="width: 100%; border-bottom: 1px solid #cfcfcf; margin:0 0 0.5em 0;padding: 0.5em 0">
 							<span style="font-family: serif; font-size: 1.5em;">
-								<strong>My Books:</strong> to-follow (72)
+								<strong>My Books:</strong> watch-shelf (72)
 								<span style="background-color: #d7d7d7">&nbsp;&times;&nbsp;</span>
 							</span>
 						</div>
@@ -105,7 +105,7 @@
 							<ul>
 								<li>*lang-de (160)</li>
 								<li>*lang-en (104)</li>
-								<li><span class="my-active">*to-follow (72)</span></li>
+								<li><span class="my-active">*watch-shelf (72)</span></li>
 								<li>aged-outdated (23)</li>      <li>bathroom-books (16)</li>        <li>biographic (22)</li>
 								<li>built-environment (21)</li>  <li>classics (50)</li>              <li>comp-and-society (21)</li>
 								<li>comp-data-metadata (8)</li>  <li>comp-hardware (13)</li>         <li>comp-history (13)</li>
@@ -172,7 +172,7 @@
 							"The Machine Question"<br>
 							&nbsp;<span class="my-url">www.goodreads.com/user/show/54336239</span>&nbsp;&nbsp;&nbsp;[*****]<br>
 							<br>
-							"Spam: A Shadow History of the Internet"<br>
+							"A Shadow History of the Internet"<br>
 							&nbsp;<span class="my-url">www.goodreads.com/book/show/16718273</span>&nbsp;&nbsp;&nbsp;[9 new]<br>
 							<br>
 							"Understanding Beliefs"<br>
@@ -266,9 +266,13 @@
 				
 				<header itemscope itemtype="http://schema.org/WPHeader">
 					<h1>
-						Follow books on Goodreads
+						Know when people write reviews about your books on Goodreads
 						<small style="opacity: 0.4">
-						Know when people rate or write reviews about a book
+						Get periodic summaries via e-mail
+						<!--
+						
+						Follow books on Goodreads
+						-->
 						</small>
 					</h1>
 					
@@ -313,21 +317,23 @@
 									required 
 									aria-required="true"
 									pattern="^[hH][tT][tT][pP][sS]:\/\/[wW][wW][wW]\.[gG][oO][oO][dD][rR][eE][aA][dD][sS]\.[cC][oO][mM]/review/list/[0-9]+.*"
-									placeholder="Paste a Goodreads Shelf Web-Address (URL)"
+									placeholder="Paste Any Goodreads Shelf Web-Address (URL)"
 									oninvalid="setCustomValidity('Valid shelf URL expected.')"
 									oninput="setCustomValidity('')"
 									><!-- Ugly pattern bc no native way to ignore case (who specified this?) -->
-									
-						<br><br>
+								
+						<br>
+						<br>
 						<br>
 						
 						<input type="email" id="my-replyto" name="_replyto" 
 									required 
 									aria-required="true"
-									placeholder="Enter an E-Mail Address To Receive Notices">
+									placeholder="Enter an E-Mail Address to Receive Notices">
 									
-						<br><br>
-						<br><br>
+						<br>
+						<br>
+						<br>
 						
 						<input type="checkbox" id="my-privacyok" name="privacyok" 
 									required 
@@ -337,7 +343,9 @@
 							and confirm my agreement
 						</label>
 						
-						<br><br>
+						<br>
+						<br>
+						<br>
 						
 						
 						<button id="my-submit" type="submit">
@@ -364,20 +372,19 @@
 							<!-- ORIGINAL:
 							<i class="fas fa-flag-checkered"></i>
 							-->
-							Perfect. I will add you.
+							Perfect, I will add you.
 						</h2>
 						<ul>
 							<li>
 								make sure, <em>"anyone (including search engines)"</em> is activated in
 								<a target="_blank" href="https://www.goodreads.com/user/edit?tab=settings">your privacy settings</a>;
-								otherwise this cannot read your shelf
+								otherwise this can't read your shelf
 							</li>
-							<li>you'll receive an email whenever there's a new book rating
-							    or sth. related to this service</li>
-							<li>your shelf is checked once a day</li>	
+							<li>your shelf is checked once a day but some notifications may be delayed depending on the amount of books</li>	
 							<li>you can add books to your shelf at any time: new books will be checked too</li>
+							<!-- too negative? 
 							<li>you can communicate changes and unsubscribe by replying to the mails you'll receive</li>
-							<li>you could tell your friends of this free service</li>
+							-->
 						</ul>
 					</div>
 					
