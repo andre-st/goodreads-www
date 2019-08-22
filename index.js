@@ -15,7 +15,8 @@ while( maxBooks-- )  // Adds book-covers
 		.appendTo( $( "#my-slide-good .my-picture" ) );
 		
 		
-		
+// Mouse pointer animations:
+
 $( "#my-slide-good .my-mouse-ptr span" ).on( "animationstart", function()
 {
 	$( "#my-fake-addrbar-url").removeClass( "my-active" );
@@ -171,7 +172,7 @@ $( document ).ready( function()
 
 
 ////////////////////////////////////////////////////////////////////////////////
-// Developers:
+// Developers, Developers, Developers:
 // 
 if( document.location.href.startsWith( "file://" ) )
 {
