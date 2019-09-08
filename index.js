@@ -79,9 +79,10 @@ $( "input[name=shelfurl]" ).focus( function()
 $( "input[name=shelfurl]" ).on( "input", function()
 {
 	const inp = this;
-	if( inp.value.match( /shelf=read/i    ) 
-	||  inp.value.match( /shelf=to-read/i )
-	||  inp.value.match( /shelf=#ALL#/i   ) )
+	if( inp.value.match( /shelf=read/i      ) 
+	||  inp.value.match( /shelf=to-read/i   )
+	||  inp.value.match( /shelf=#ALL#/i     )
+	||  inp.value.match( /shelf=%23ALL%23/i ))
 		showSlide( "#my-slide-tips" );
 });
 
