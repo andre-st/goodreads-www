@@ -260,14 +260,10 @@ a:hover
 
 #my-slide-tips .my-picture
 {
-
-	background-color: #fdff91;
 	background-color: #333;
-	color: #000;
 	color: #fff;
-
-
-
+	top: -10px;
+	position: relative;
 	-webkit-filter: grayscale(0%);
 	   -moz-filter: grayscale(0%);
 	    -ms-filter: grayscale(0%);
